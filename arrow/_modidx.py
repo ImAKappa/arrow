@@ -5,4 +5,4 @@ d = { 'settings': { 'branch': 'trunk',
                 'doc_host': 'https://ImAKappa.github.io',
                 'git_url': 'https://github.com/ImAKappa/arrow',
                 'lib_path': 'arrow'},
-  'syms': {'arrow.core': {'arrow.core.foo': ('core.html#foo', 'arrow/core.py')}}}
+  'syms': {}}
