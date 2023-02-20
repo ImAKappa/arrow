@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "arrow"
+  site-url: "https://ImAKappa.github.io/arrow"
+  description: "Geometric algebra"
+  repo-branch: trunk
+  repo-url: "https://github.com/ImAKappa/arrow"
